@@ -4,12 +4,12 @@ header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "Hanson|Think Different"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://Inconfident.github.io"  
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "陈磊"
+  email: trmatic@163.com
   bio: ""
 
 # Data
@@ -18,10 +18,10 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+github_username: Inconfident
+weibo_username: '时光不能'
 facebook_username:
-zhihu_username: zhang-yi-sen-46
+zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
